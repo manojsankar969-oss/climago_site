@@ -1,0 +1,13 @@
+# Climago Project Dependencies
+# This is a Node.js project. To run it, you need Node.js installed.
+
+# 1. Install dependencies:
+# Run: npm install
+
+# Core dependencies used:
+express@^4.18.2
+dotenv@^16.0.0
+
+# 2. Setup your .env file with OpenWeather and Google Gemini API keys.
+# 3. Start the server:
+# Run: npm start
